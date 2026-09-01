@@ -1,7 +1,6 @@
 # 🧮 Sistema Matemático em Node.js
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-%3E%3D%2014.0.0-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript%20ES6%2B-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 Uma aplicação modular em **Node.js** desenvolvida para realizar operações aritméticas fundamentais e resolução de equações do segundo grau através da **Fórmula de Bhaskara**.
